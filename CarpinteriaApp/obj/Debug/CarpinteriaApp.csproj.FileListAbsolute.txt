@@ -1,0 +1,24 @@
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe.config
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\bin\Debug\CarpinteriaApp.pdb
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\obj\Debug\CarpinteriaApp.FrmMenuPrincipal.resources
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\obj\Debug\CarpinteriaApp.exe
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\obj\Debug\CarpinteriaApp.pdb
+C:\Users\alumno\Desktop\AppCarpinteria\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmNuevoPresupuesto.resources
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe.config
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\bin\Debug\CarpinteriaApp.pdb
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\obj\Debug\CarpinteriaApp.FrmMenuPrincipal.resources
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmNuevoPresupuesto.resources
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\obj\Debug\CarpinteriaApp.exe
+C:\Users\aguss\OneDrive\Documentos\Tecnicatura en programacion\2do cuatrimestre\Programación 2\Proyectos\CarpinteriaApp\obj\Debug\CarpinteriaApp.pdb
